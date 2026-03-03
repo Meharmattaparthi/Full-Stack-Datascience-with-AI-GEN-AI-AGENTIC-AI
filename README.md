@@ -1,2 +1,1 @@
-# 01.-Basic_Python
-Basic python code practice
+# Full Stack Datascience with AI, GEN AI & AGENTIC AI
